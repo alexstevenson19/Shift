@@ -29,3 +29,7 @@ Please feel free to use a different markup language if you do not plan to run
     Ruby 2.3.1
     Rails 4.2.6
 
+
+ # Economic landscapes change dramatically, often outpacing a workforce lagging in its adaptation to new opportunities and industries. How can data scientists leverage predictive modeling to close the gap?
+
+ **Initial Resources:** http://bayeshack.org/labor.html
